@@ -7,7 +7,7 @@
 [Enter your bundle name below and delete this line.]
 
 ```bash
-install_bundle -download bundle-kafka-...
+install_bundle -download bundle-confluent-...
 ```
 
 ## Use Case

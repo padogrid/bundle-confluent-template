@@ -6,7 +6,7 @@
 
 	<groupId>padogrid.addon</groupId>
 	<!-- @template: Enter your bundle name here -->
-	<artifactId>bundle-kafka-template</artifactId>
+	<artifactId>bundle-confluent-template</artifactId>
 	<packaging>pom</packaging>
 	<name>${project.artifactId}</name>
 	<version>1.0.0</version>

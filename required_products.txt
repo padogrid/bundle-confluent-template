@@ -14,7 +14,7 @@
 # then set none=1.
 #
 
-kafka=3
+confluent=7
 #coherence=
 #gemfire=
 #geode=
@@ -23,6 +23,7 @@ kafka=3
 #hazelcast-enterprise=
 #jet=
 #jet-enterprise=
+#kafka=
 #none=
 #pado=
 #redis=
