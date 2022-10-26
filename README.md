@@ -2,7 +2,7 @@
 
 ---
 
-# Kafka Bundle Template
+# Kafka Confluent Bundle Template
 
 This bundle serves as a template for creating a new Kafka onlne bundle.
 
